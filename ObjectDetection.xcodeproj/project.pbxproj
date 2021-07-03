@@ -30,8 +30,6 @@
 		044924D4268DB3100025A751 /* Project- hand gesture.AVI */ = {isa = PBXFileReference; lastKnownFileType = video.avi; path = "Project- hand gesture.AVI"; sourceTree = "<group>"; };
 		044924D5268DB32F0025A751 /* Car video2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Car video2.mp4"; sourceTree = "<group>"; };
 		044924DA268DBC7B0025A751 /* ObjectDetection.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ObjectDetection.entitlements; sourceTree = "<group>"; };
-		044924DC2690565D0025A751 /* sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sample.gif; sourceTree = "<group>"; };
-		044924DE269058E60025A751 /* sample2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sample2.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +64,6 @@
 			children = (
 				044924DA268DBC7B0025A751 /* ObjectDetection.entitlements */,
 				044924D5268DB32F0025A751 /* Car video2.mp4 */,
-				044924DC2690565D0025A751 /* sample.gif */,
-				044924DE269058E60025A751 /* sample2.gif */,
 				044924D4268DB3100025A751 /* Project- hand gesture.AVI */,
 				044924D3268DB3080025A751 /* Project_outdoor video1.mov */,
 				044924D2268DB2FA0025A751 /* Hand Video2.mov */,
